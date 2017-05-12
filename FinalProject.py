@@ -17,7 +17,7 @@ rects3 = ax.bar(ind+width*2, kvals, width, color='b')
 
 ax.set_ylabel('Scores')
 ax.set_xticks(ind+width)
-ax.set_xticklabels( ('2011-Jan-4', '2011-Jan-5', '2011-Jan-6') )
+ax.set_xticklabels( ('1970-Jan-4', '1980-Jan-5', '1990-Jan-6') )
 ax.legend( (rects1[0], rects2[0], rects3[0]), ('Injuries', 'Deaths', 'Toddler Incidents') )
 
 def autolabel(rects):
