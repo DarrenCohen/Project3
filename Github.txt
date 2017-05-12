@@ -1,0 +1,13 @@
+github commands
+
+git pull
+git status //shows what you changed in your file
+
+git add -A //adds all of the files in the folder
+
+git commit -m "comment" //adds comment to your commit
+
+git push //finalizes commit and adds what you wanted
+
+
+try to commit 5 more times
